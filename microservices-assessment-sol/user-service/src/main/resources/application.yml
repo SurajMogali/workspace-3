@@ -1,0 +1,13 @@
+server:
+  port: 8084
+  
+spring:
+  h2:
+    console:
+      enabled: true
+  datasource: 
+    name: userdb
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: create-drop 

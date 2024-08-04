@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "com.demo.spring.UriConfiguration",
+      "sourceType": "com.demo.spring.UriConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "bank-server",
+      "type": "java.lang.String",
+      "sourceType": "com.demo.spring.UriConfiguration"
+    },
+    {
+      "name": "user-server",
+      "type": "java.lang.String",
+      "sourceType": "com.demo.spring.UriConfiguration"
+    }
+  ],
+  "hints": []
+}
